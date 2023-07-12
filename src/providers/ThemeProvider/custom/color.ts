@@ -1,7 +1,7 @@
 export const colors = {
     primary: {
       50: '#e6f1ff',
-      100: '#b0d5ff',
+      100: '#b0d5ff'
       200: '#9592d4',
       300: '#8b8ab3',
       400: '#35337a',
